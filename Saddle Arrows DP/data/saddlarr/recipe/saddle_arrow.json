@@ -12,10 +12,8 @@
 	],
 	"result": {
 	  "components": {
-		"minecraft:intangible_projectile": {},
 		"minecraft:custom_data": "{saddlarr:{saddle_arrow:1b}}",
 		"minecraft:item_name": "{\"translate\":\"item.saddlarr.saddle_arrow\",\"fallback\":\"Saddle Arrow\"}",
-
 		"minecraft:item_model": "saddlarr:saddle_arrow"
 	  },
 	  "count": 8,
