@@ -1,0 +1,2 @@
+scoreboard objectives remove saddlarr.settings
+scoreboard objectives remove saddlarr.used_bow
