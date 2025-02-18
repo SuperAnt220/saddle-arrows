@@ -1,3 +1,3 @@
 execute if score $show_saddle saddlarr.settings matches 1 as @s[type=arrow,predicate=!saddlarr:has_saddle_passenger] if items entity @s contents arrow[custom_data~{saddlarr:{saddle_arrow:1b}}] at @s run function saddlarr:main/summon_saddle
-execute as @s[type=item_display,tag=saddlarr.saddle_entity] unless predicate saddlarr:is_sitting_on_saddlarr run kill
+execute as @s[type=item_display,tag=saddlarr.saddle_entity] at @s run function saddlarr:main/as_saddle_entity
 execute as @s[type=arrow,tag=!saddlarr.old_arrow,tag=saddlarr.new_arrow,predicate=!saddlarr:has_player_passenger] at @s run function saddlarr:main/player_dismounted
