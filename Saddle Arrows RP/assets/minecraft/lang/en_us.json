@@ -11,5 +11,6 @@
 	"config.saddlarr.setting2_1": "[Allow from all entities except the saddle arrow]\n",
 	"config.saddlarr.setting2_2": "[Allow from any entity]\n",
 	"config.saddlarr.setting2_3": "[Do not allow]\n\n",
-	"config.saddlarr.setting3": "Show saddle on the saddle arrow entity\n"
+	"config.saddlarr.setting3": "Allow mounting arrows shot from an infinity bow\n",
+	"config.saddlarr.setting4": "Show saddle on the saddle arrow entity\n"
 }

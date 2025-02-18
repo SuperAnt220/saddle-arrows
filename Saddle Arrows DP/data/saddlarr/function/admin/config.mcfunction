@@ -1,13 +1,3 @@
 playsound ui.button.click master @s ~ ~ ~ 0.2
-execute if score $allow_dismounting saddlarr.settings matches 0 if score $allow_remounting saddlarr.settings matches 0 if score $show_saddle saddlarr.settings matches 0 run function saddlarr:config/msgs/0_0_0
-execute if score $allow_dismounting saddlarr.settings matches 0 if score $allow_remounting saddlarr.settings matches 0 if score $show_saddle saddlarr.settings matches 1 run function saddlarr:config/msgs/0_0_1
-execute if score $allow_dismounting saddlarr.settings matches 0 if score $allow_remounting saddlarr.settings matches 1 if score $show_saddle saddlarr.settings matches 0 run function saddlarr:config/msgs/0_1_0
-execute if score $allow_dismounting saddlarr.settings matches 0 if score $allow_remounting saddlarr.settings matches 1 if score $show_saddle saddlarr.settings matches 1 run function saddlarr:config/msgs/0_1_1
-execute if score $allow_dismounting saddlarr.settings matches 0 if score $allow_remounting saddlarr.settings matches 2 if score $show_saddle saddlarr.settings matches 0 run function saddlarr:config/msgs/0_2_0
-execute if score $allow_dismounting saddlarr.settings matches 0 if score $allow_remounting saddlarr.settings matches 2 if score $show_saddle saddlarr.settings matches 1 run function saddlarr:config/msgs/0_2_1
-execute if score $allow_dismounting saddlarr.settings matches 1 if score $allow_remounting saddlarr.settings matches 0 if score $show_saddle saddlarr.settings matches 0 run function saddlarr:config/msgs/1_0_0
-execute if score $allow_dismounting saddlarr.settings matches 1 if score $allow_remounting saddlarr.settings matches 0 if score $show_saddle saddlarr.settings matches 1 run function saddlarr:config/msgs/1_0_1
-execute if score $allow_dismounting saddlarr.settings matches 1 if score $allow_remounting saddlarr.settings matches 1 if score $show_saddle saddlarr.settings matches 0 run function saddlarr:config/msgs/1_1_0
-execute if score $allow_dismounting saddlarr.settings matches 1 if score $allow_remounting saddlarr.settings matches 1 if score $show_saddle saddlarr.settings matches 1 run function saddlarr:config/msgs/1_1_1
-execute if score $allow_dismounting saddlarr.settings matches 1 if score $allow_remounting saddlarr.settings matches 2 if score $show_saddle saddlarr.settings matches 0 run function saddlarr:config/msgs/1_2_0
-execute if score $allow_dismounting saddlarr.settings matches 1 if score $allow_remounting saddlarr.settings matches 2 if score $show_saddle saddlarr.settings matches 1 run function saddlarr:config/msgs/1_2_1
+function saddlarr:config/set_strings
+function saddlarr:config/send_message with storage saddlarr:settings

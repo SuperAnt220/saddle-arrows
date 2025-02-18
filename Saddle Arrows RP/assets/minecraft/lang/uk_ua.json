@@ -11,5 +11,6 @@
 	"config.saddlarr.setting2_1": "[Дозволити злізання зі всіх сутностей, крім стріли з сідлом]\n",
 	"config.saddlarr.setting2_2": "[Дозволити злізання з будь-якої сутності]\n",
 	"config.saddlarr.setting2_3": "[Заборонити]\n\n",
-	"config.saddlarr.setting3": "Показувати сідло на сутності стріли\n"
+	"config.saddlarr.setting3": "Дозволити садіння на стрілу, яка була випушена з луку на нескінченність\n",
+	"config.saddlarr.setting4": "Показувати сідло на сутності стріли\n"
 }
