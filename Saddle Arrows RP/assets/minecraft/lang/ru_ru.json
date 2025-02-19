@@ -5,7 +5,7 @@
 	"config.saddlarr.click_to_reset": "Нажмите, чтобы сбросить",
 	"config.saddlarr.click_to_switch": "Нажмите, чтобы переключить",
 	"config.saddlarr.setting1": "Разрешить слезание (через шифт) со стрелы с седлом\n",
-	"config.saddlarr.yes": "[Да]\n",
+	"config.saddlarr.yes": "[Да] ",
 	"config.saddlarr.no": "[Нет]\n",
 	"config.saddlarr.setting2": "Разрешить автоматическое слезание игроков с других сущностей, чтоб посадить на стрелу с седлом\n",
 	"config.saddlarr.setting2_1": "[Разрешить слезание игроков со всех сущностей, кроме стрелы с седлом]\n",

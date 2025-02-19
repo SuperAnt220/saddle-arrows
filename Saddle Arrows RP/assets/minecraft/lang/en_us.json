@@ -5,7 +5,7 @@
 	"config.saddlarr.click_to_reset": "Click to reset",
 	"config.saddlarr.click_to_switch": "Click to switch",
 	"config.saddlarr.setting1": "Allow dismounting (shifting out) the saddle arrow\n",
-	"config.saddlarr.yes": "[Yes]\n",
+	"config.saddlarr.yes": "[Yes] ",
 	"config.saddlarr.no": "[No]\n",
 	"config.saddlarr.setting2": "Allow automatically dismounting players from other entities to mount the saddle arrow\n",
 	"config.saddlarr.setting2_1": "[Allow from all entities except the saddle arrow]\n",

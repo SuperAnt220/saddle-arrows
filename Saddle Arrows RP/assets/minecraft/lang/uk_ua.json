@@ -5,7 +5,7 @@
 	"config.saddlarr.click_to_reset": "Натисніть, щоб скинути",
 	"config.saddlarr.click_to_switch": "Натисніть, щоб переключити",
 	"config.saddlarr.setting1": "Дозволити злізати зі стріли з сідлом (через шифт)\n",
-	"config.saddlarr.yes": "[Так]\n",
+	"config.saddlarr.yes": "[Так] ",
 	"config.saddlarr.no": "[Ні]\n",
 	"config.saddlarr.setting2": "Дозволити автоматичне злізання з інших сутностей, щоб посадити на стрілу з сідлом\n",
 	"config.saddlarr.setting2_1": "[Дозволити злізання зі всіх сутностей, крім стріли з сідлом]\n",
