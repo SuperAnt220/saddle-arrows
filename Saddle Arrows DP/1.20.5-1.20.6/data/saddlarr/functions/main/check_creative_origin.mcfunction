@@ -1,0 +1,1 @@
+execute on origin if entity @s[gamemode=creative] run return 1

@@ -1,0 +1,1 @@
+execute on origin if items entity @s weapon.* *[minecraft:enchantments~[{enchantment:"minecraft:infinity",levels:1}]] run return 1

@@ -4,16 +4,16 @@
 		"pack_format": 46,
 		"description": "Saddle Arrows by SuperAnt_",
 		"supported_formats": {
-            "min_inclusive": 34,
+            "min_inclusive": 32,
             "max_inclusive": 46
         }
 	},
     "overlays": {
       "entries": [
         {
-          "directory": "1.21-1.21.1",
+          "directory": "1.20.5-1.21.1",
           "formats": {
-            "min_inclusive": 34,
+            "min_inclusive": 32,
             "max_inclusive": 41
           }
         }

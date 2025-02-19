@@ -1,0 +1,16 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+	  "vehicle": {
+		"type": "minecraft:arrow",
+		"slots": {
+		  "contents": {
+			"predicates": {
+			  "minecraft:custom_data": "{saddlarr:{saddle_arrow:1b}}"
+			}
+		  }
+		}
+	  }
+	}
+  }
