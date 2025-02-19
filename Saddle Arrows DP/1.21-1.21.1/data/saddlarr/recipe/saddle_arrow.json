@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+	  "#": {
+		"item": "minecraft:arrow"
+	  },
+	  "X": {
+		"item": "minecraft:saddle"
+	  }
+	},
+	"pattern": [
+	  "###",
+	  "#X#",
+	  "###"
+	],
+	"result": {
+	  "components": {
+		"minecraft:custom_data": "{saddlarr:{saddle_arrow:1b}}",
+		"minecraft:item_name": "{\"translate\":\"item.saddlarr.saddle_arrow\",\"fallback\":\"Saddle Arrow\"}",
+		"minecraft:custom_model_data": 191
+	  },
+	  "count": 8,
+	  "id": "minecraft:arrow"
+	}
+  }

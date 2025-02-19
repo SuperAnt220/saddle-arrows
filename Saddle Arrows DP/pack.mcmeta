@@ -1,6 +1,21 @@
 {
     "pack": {
         "pack_format": 61,
-        "description": "Saddle Arrows by SuperAnt_"
+        "description": "Saddle Arrows by SuperAnt_",
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 61
+        }
+    },
+    "overlays": {
+      "entries": [
+        {
+          "directory": "1.21-1.21.1",
+          "formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 56
+          }
+        }
+      ]
     }
 }

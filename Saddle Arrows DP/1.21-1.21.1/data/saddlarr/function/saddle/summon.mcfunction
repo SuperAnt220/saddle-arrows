@@ -1,0 +1,2 @@
+summon item_display ~ ~ ~ {Tags:["saddlarr.saddle_entity"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,-0.25f,0f],scale:[1f,1f,1f]},item:{id:"minecraft:saddle",count:1,components:{"minecraft:custom_model_data":192}}}
+ride @n[type=item_display,tag=saddlarr.saddle_entity] mount @s
