@@ -4,13 +4,13 @@
 	"config.saddlarr.reset_to_default": "[Скинути налаштування за замовчуванням]\n\n",
 	"config.saddlarr.click_to_reset": "Натисніть, щоб скинути",
 	"config.saddlarr.click_to_switch": "Натисніть, щоб переключити",
-	"config.saddlarr.setting1": "Дозволити злізати зі стріли з сідлом (через шифт)\n",
+	"config.saddlarr.setting1": "Дозволити садіння на стрілу, яка була випущена у повітрі\n",
 	"config.saddlarr.yes": "[Так] ",
 	"config.saddlarr.no": "[Ні]\n",
 	"config.saddlarr.setting2": "Дозволити автоматичне злізання з інших сутностей, щоб посадити на стрілу з сідлом\n",
 	"config.saddlarr.setting2_1": "[Дозволити злізання зі всіх сутностей, крім стріли з сідлом]\n",
 	"config.saddlarr.setting2_2": "[Дозволити злізання з будь-якої сутності]\n",
 	"config.saddlarr.setting2_3": "[Заборонити]\n\n",
-	"config.saddlarr.setting3": "Дозволити садіння на стрілу, яка була випушена з луку на нескінченність\n",
+	"config.saddlarr.setting3": "Дозволити садіння на стрілу, яка була випущена з луку на нескінченність\n",
 	"config.saddlarr.setting4": "Показувати сідло на сутності стріли\n"
 }

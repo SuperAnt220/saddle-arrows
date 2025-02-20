@@ -1,0 +1,1 @@
+execute on origin at @s if block ~ ~-1 ~ air if block ~ ~-2 ~ air run return 1

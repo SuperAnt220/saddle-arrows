@@ -4,7 +4,7 @@
 	"config.saddlarr.reset_to_default": "[Reset to Default]\n\n",
 	"config.saddlarr.click_to_reset": "Click to reset",
 	"config.saddlarr.click_to_switch": "Click to switch",
-	"config.saddlarr.setting1": "Allow dismounting (shifting out) the saddle arrow\n",
+	"config.saddlarr.setting1": "Allow mounting the saddle arrow that was shot while being in the air\n",
 	"config.saddlarr.yes": "[Yes] ",
 	"config.saddlarr.no": "[No]\n",
 	"config.saddlarr.setting2": "Allow automatically dismounting players from other entities to mount the saddle arrow\n",

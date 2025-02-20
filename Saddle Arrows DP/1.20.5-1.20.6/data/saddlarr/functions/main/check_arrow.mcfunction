@@ -1,3 +1,4 @@
+execute if score $allow_mounting_in_air saddlarr.settings matches 0 if function saddlarr:main/check_origin_air run return run tag @s add saddlarr.old_arrow
 execute if function saddlarr:main/check_infinity run tag @s add saddlarr.infinity_arrow
 execute if score $allow_infinity saddlarr.settings matches 0 if entity @s[tag=saddlarr.infinity_arrow] run return run tag @s add saddlarr.old_arrow
 execute if function saddlarr:main/check_creative_origin run return run function saddlarr:main/sit_on_arrow
