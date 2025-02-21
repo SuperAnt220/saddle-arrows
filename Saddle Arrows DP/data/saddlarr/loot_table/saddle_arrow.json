@@ -1,0 +1,34 @@
+{
+	"pools": [
+	  {
+		"rolls": 1,
+		"entries": [
+		  {
+			"type": "minecraft:item",
+			"name": "minecraft:arrow",
+			"functions": [
+			  {
+				"function": "minecraft:set_custom_data",
+				"tag": "{saddlarr:{saddle_arrow:1b}}"
+			  },
+			  {
+				"function": "minecraft:set_name",
+				"entity": "this",
+				"name": {
+				  "translate": "item.saddlarr.saddle_arrow",
+				  "fallback": "Saddle Arrow"
+				},
+				"target": "item_name"
+			  },
+			  {
+				"function": "minecraft:set_components",
+				"components": {
+				  "minecraft:item_model": "saddlarr:saddle_arrow"
+				}
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }

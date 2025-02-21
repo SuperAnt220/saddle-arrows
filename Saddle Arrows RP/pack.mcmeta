@@ -2,7 +2,11 @@
   "id": "saddlarr",
 	"pack": {
 		"pack_format": 46,
-		"description": "Saddle Arrows by SuperAnt_",
+		"description": [
+      {"text":"","color": "white"},
+      {"text": "Launch", "color": "red"}," yourself into the ",{"text":"skies","color": "#65b5ff"},"!\n",
+      "By ", {"text": "SuperAnt_", "color": "#e68632"}
+    ],
 		"supported_formats": {
             "min_inclusive": 32,
             "max_inclusive": 46
